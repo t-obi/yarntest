@@ -1,0 +1,10 @@
+{
+  "name": "yarntest2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "tkloht",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
