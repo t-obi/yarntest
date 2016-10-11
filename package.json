@@ -3,5 +3,8 @@
   "version": "1.0.1",
   "main": "index.js",
   "author": "tkloht",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
 }
